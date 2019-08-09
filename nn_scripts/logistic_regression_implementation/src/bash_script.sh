@@ -1,0 +1,1 @@
+python src/logistic_grid_search.py run data/diff_vec_training_data.array data/diff_vec_testing_data.array data/unnormalised_grid_stats.csv
